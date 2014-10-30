@@ -6,6 +6,6 @@ comments: true
 categories: 
 ---
 
-``` php How to get the current path in Drupal 8
+``` php How to get the current path
 $current_path = \Drupal::request()->getRequestUri();
 ```
