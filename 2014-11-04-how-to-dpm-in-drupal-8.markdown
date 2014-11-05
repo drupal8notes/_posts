@@ -23,7 +23,7 @@ krumo($variables);
 kint($variables);
 ```
 
-#### 2.Dump for Twig
+#### 2. Dump for Twig
 Inside Twig template you can:
 
 {% codeblock %}
