@@ -6,7 +6,9 @@ comments: true
 categories: 
 ---
 
-Looks like `dpm()` is broken right now in devel. It gives you a WSOD. Here's some alternatives:
+Looks like `dpm()` is broken right now in devel. It gives you a WSOD.
+
+Here's some alternatives with the devel module enabled:
 
 #### 1. Krumo
 
