@@ -1,1 +1,1 @@
-See drupal8notes.github.io
+See http://drupal8notes.github.io/contribute
